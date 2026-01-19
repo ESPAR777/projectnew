@@ -1,2 +1,3 @@
 This is my new change !!!
 Successfully connected to git.
+Getting hands on with Git merge !!
